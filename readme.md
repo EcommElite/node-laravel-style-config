@@ -2,6 +2,8 @@
 
 Provides Laravel style config() and env() methods utilizing .env
 
+`npm install git+https://git@github.com/EcommElite/node-laravel-style-config.git --save`
+
 ## Usage
 
 ```
