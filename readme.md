@@ -5,6 +5,8 @@ Provides Laravel style config() and env() methods utilizing .env
 ## Installation
 
 `npm install git+https://github.com/EcommElite/node-laravel-style-config.git#master`
+`npm install git+https://git@github.com/EcommElite/node-laravel-style-config.git --save`
+>>>>>>> 3b13fdba3647931106a7810132b54c77eacd1c70
 
 ## Usage
 
