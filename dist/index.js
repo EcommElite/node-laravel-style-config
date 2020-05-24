@@ -18,16 +18,6 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var config = _config2.default.func;
 var setConfig = _config2.default.set;
 
-// export default {
-//
-//     env,
-//     config,
-//     setConfig,
-//
-// }
-
-// export function base_config.func;
 exports.config = config;
 exports.setConfig = setConfig;
 exports.env = _env2.default;
-// export default setConfig;
